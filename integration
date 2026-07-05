@@ -1492,6 +1492,7 @@
   "lnagel/hass-komfovent",
   "lnagel/hass-navirec",
   "lnagel/hass-ufh-controller",
+  "Loa0/ha-opinet-price",
   "lociii/homeassistant-csgo",
   "lociii/homeassistant-overwolf-status",
   "lolouk44/CurrentCost_HA_CC",
